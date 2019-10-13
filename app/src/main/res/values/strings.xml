@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JuegoDados</string>
+    <string name="j1">Player 1</string>
+    <string name="j2">Player 2</string>
+    <string name="fin">Finish</string>
+    <string name="pass">Stand</string>
+
+</resources>
